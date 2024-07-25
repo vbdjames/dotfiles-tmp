@@ -1,0 +1,8 @@
+antigen use oh-my-zsh
+antigen bundle aliases
+antigen bundle common-aliases
+antigen bundle git
+antigen bundle git-flow
+antigen bundle themes
+antigen theme gallois
+antigen apply
