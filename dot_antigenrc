@@ -1,5 +1,6 @@
 antigen use oh-my-zsh
 antigen bundle aliases
+antigen bundle ansible
 antigen bundle common-aliases
 antigen bundle git
 antigen bundle git-flow
